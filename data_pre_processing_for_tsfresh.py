@@ -1,4 +1,6 @@
-﻿import numpy as np
+# Extract feature from time series data odd change (3 days before the match start) 
+
+import numpy as np
 import datetime
 import pandas as pd
 import tqdm
