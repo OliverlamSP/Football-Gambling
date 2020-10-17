@@ -1,3 +1,5 @@
+#scrape time series data and match detail from website 
+
 import requests
 from datetime import datetime
 from random import randint
