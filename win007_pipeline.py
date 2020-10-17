@@ -1,4 +1,4 @@
-# -*- coding: UTF-8 -*-
+# Get real-time time series data, extract features, pick model and get prediction result
 import pandas as pd 
 import datetime
 import requests
