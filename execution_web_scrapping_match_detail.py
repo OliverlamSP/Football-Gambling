@@ -1,7 +1,7 @@
 import web_scrapping
 import pandas as pd 
 
-# for scrapping match detail for win007
+# for scrapping match_id, match_result for win007
 league_id_list = [36,37,39,35,31,8,9,34,11,12,23,29,16,17,5,26,10,2,4,21,415,14040,14044,25,284,273,15]
 empty_df = pd.read_csv('win007_match_detail.csv')
 for league_id in league_id_list:
